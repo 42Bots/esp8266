@@ -50,7 +50,7 @@ IPAddress    apIP(42, 42, 42, 42);  // Defining a static IP address: local & gat
 
 DHT dht(DHTPIN, DHTTYPE); // Initialize DHT sensor.
 
-/* This are the WiFi access point settings. Update them to your likin */
+/* This are the WiFi access point settings. Update them to your liking */
 const char *ssid = "ESP8266";
 const char *password = "Testing.123";
 
